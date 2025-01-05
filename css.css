@@ -245,7 +245,7 @@ label{
 }
 
 .bxs-heart{
-  color: #C96868;
-  animation: burstAnimation 9s ease-out infinite; /* Adjust the duration and timing */
+  color: #C96868 !important;
+  animation: burstAnimation 9s ease-out infinite !important;
 }
 
