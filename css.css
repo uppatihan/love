@@ -3,16 +3,15 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: rgba(255, 255, 255, 0.3);
 
   font-family: "Playwrite AU SA", serif;
   font-optical-sizing: auto;
   font-weight: 400;
-  font-style: Regular;
   font-size: large;
 }
 
 .container {
-  background-color: rgba(0, 0, 0, 0.3);
   height: 100%;
   display: flex;
   justify-content: center;
